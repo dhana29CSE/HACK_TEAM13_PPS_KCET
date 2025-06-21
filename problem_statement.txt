@@ -1,1 +1,4 @@
-Predict whether a student will complete an online course using two independent features sets: Set 1:Attendence% ,number of logins, duration of sessions Set2:Course feedback rating, use of additional resources ,assignment scores Use Co-Training to train two classifiers independently and combine their strength .Only part of your dataset will be labeled .Use the labeled portion to guide the unlabeled data. 
+Predict whether a student will complete an online course using two independent features sets: 
+Set 1:Attendence% ,number of logins, duration of sessions 
+Set2:Course feedback rating, use of additional resources ,assignment scores 
+Use Co-Training to train two classifiers independently and combine their strength .Only part of your dataset will be labeled .Use the labeled portion to guide the unlabeled data. 

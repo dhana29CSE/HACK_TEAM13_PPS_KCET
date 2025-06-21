@@ -1,0 +1,42 @@
+﻿Id,Start time,Completion time,Email,Name,Name1,Attendence percentage,Number of Logins,Duration of session (in hrs),use of additional resourse,Assignment scores,Course feedback rating,course completed
+1,6/21/2025 9:46,6/21/2025 9:47,23ucs164@kamarajengg.edu.in,SHALINI.S,Shalini.S,72%,2,5,yes,80,Good,yes
+2,6/21/2025 9:46,6/21/2025 9:47,23ucs006@kamarajengg.edu.in,BHAVA AKSHAYA.M,Bhava Akshaya M,60%,1,5,yes,90,Excellent,yes
+3,6/21/2025 9:47,6/21/2025 9:48,23ucs002@kamarajengg.edu.in,BHARATH.R,BHARATH,72%,1,3,No,80,Good,yes
+4,6/21/2025 9:47,6/21/2025 9:48,23ucs076@kamarajengg.edu.in,DHANALAKSHMI.R,Dhanalakshmi ,above 80%,6,4,yes,78,Good,yes
+5,6/21/2025 9:48,6/21/2025 9:49,23ucs077@kamarajengg.edu.in,MADHUMITHA.M,Madhumitha.M,above 80%,2,3,yes,100,Excellent,yes
+6,6/21/2025 9:48,6/21/2025 9:49,23ucs173@kamarajengg.edu.in,HARIHARASUDHAN.P,George,above 80%,15,6,yes,95,Excellent,yes
+7,6/21/2025 9:49,6/21/2025 9:50,23ucs133@kamarajengg.edu.in,SONIA.G,sonia,above 80%,5,8,yes,10,Excellent,yes
+8,6/21/2025 9:50,6/21/2025 9:50,23ucs104@kamarajengg.edu.in,DHARSHINI.G,Dharshini ,72%,3,5,No,80,Good,yes
+9,6/21/2025 9:51,6/21/2025 9:52,23ucs102@kamarajengg.edu.in,LAVANYA.B,B.lavanya,above 80%,5,4,yes,100,Excellent,yes
+10,6/21/2025 9:53,6/21/2025 9:53,23ucs171@kamarajengg.edu.in,ANANTHA KRISHNAN.R,Anantha Krishnan R,above 80%,25,48,yes,69,Excellent,yes
+11,6/21/2025 9:53,6/21/2025 9:54,23ucs076@kamarajengg.edu.in,DHANALAKSHMI.R,R.dhana,above 80%,3,4,yes,100,Excellent,yes
+12,6/21/2025 9:53,6/21/2025 9:54,23ucs025@kamarajengg.edu.in,THANGA ABIRAMI.P,Thanga abirami.p,above 80%,2,3,yes,95,Excellent,yes
+13,6/21/2025 9:54,6/21/2025 9:55,23ucs115@kamarajengg.edu.in,MADHUMITHA.S,Madhumitha S,above 80%,1,3,yes,90,Excellent,yes
+14,6/21/2025 9:56,6/21/2025 9:56,23ucs123@kamarajengg.edu.in,DEEPIKA.K,Deepika ,above 80%,2,4 ,yes,80,Good,no
+15,6/21/2025 9:56,6/21/2025 9:56,23ucs122@kamarajengg.edu.in,RAMALINGAM.G,Ram,72%,2,6,No,,Good,no
+16,6/21/2025 9:59,6/21/2025 10:00,23ucs136@kamarajengg.edu.in,YOGACHANDRA SHRI.S,Yoga chandra shri s,above 80%,10,10,No,80,Excellent,no
+17,6/21/2025 10:01,6/21/2025 10:01,23ucs114@kamarajengg.edu.in,ASWINKUMAR.S,Aswin,above 80%,3,5,yes,80,Excellent,no
+18,6/21/2025 10:01,6/21/2025 10:01,23ucs069@kamarajengg.edu.in,VAIRA SELVI.S,Vairaselvi,below 50%,1,1,yes,10,Excellent,no
+19,6/21/2025 10:03,6/21/2025 10:03,23ucs056@kamarajengg.edu.in,VISHALI.S,vishali,above 80%,5,8,yes,100,Excellent,no
+20,6/21/2025 10:09,6/21/2025 10:10,23ucs173@kamarajengg.edu.in,HARIHARASUDHAN.P,Luffy,below 50%,2,6,yes,40,Good,no
+21,6/21/2025 10:10,6/21/2025 10:11,23ucs071@kamarajengg.edu.in,DIVYADHARSHINI.R,DIVYADHARSHINI ,above 80%,1,5,,80,Excellent,no
+22,6/21/2025 10:11,6/21/2025 10:11,23ucs162@kamarajengg.edu.in,RANJANI.R,Ranjani ,above 80%,1,3,yes,89,Excellent,no
+23,6/21/2025 10:10,6/21/2025 10:12,23ucs072@kamarajengg.edu.in,NARMADHA.D,Narmada ,above 80%,1,5,yes,89,Excellent,no
+24,6/21/2025 10:13,6/21/2025 10:13,23ucs028@kamarajengg.edu.in,PRAVEEN NATARAJ.M,Praveen nataraj,above 80%,35,8,yes,100,Excellent,no
+25,6/21/2025 10:13,6/21/2025 10:14,23ucs142@kamarajengg.edu.in,DHANA JEYA HEMANTH.B,hemanth,60%,7,8,,86,Good,no
+26,6/21/2025 10:18,6/21/2025 10:19,23ucs076@kamarajengg.edu.in,DHANALAKSHMI.R,B.vimala,above 80%,4,4,yes,100,Excellent,no
+27,6/21/2025 10:19,6/21/2025 10:19,23ucs076@kamarajengg.edu.in,DHANALAKSHMI.R,V.hema,72%,4,5,No,60,Good,yes
+28,6/21/2025 10:20,6/21/2025 10:20,23ucs076@kamarajengg.edu.in,DHANALAKSHMI.R,R.ranjani,below 50%,1,3,No,80,Poor,yes
+29,6/21/2025 10:20,6/21/2025 10:21,23ucs076@kamarajengg.edu.in,DHANALAKSHMI.R,K.madhu,60%,3,4,yes,90,Good,yes
+30,6/21/2025 10:21,6/21/2025 10:21,23ucs076@kamarajengg.edu.in,DHANALAKSHMI.R,H.nivetha,above 80%,3,2,No,90,Fair,yes
+31,6/21/2025 10:21,6/21/2025 10:22,23ucs076@kamarajengg.edu.in,DHANALAKSHMI.R,K.arun,above 80%,3,4,yes,100,Good,yes
+32,6/21/2025 10:12,6/21/2025 10:23,23ucs114@kamarajengg.edu.in,ASWINKUMAR.S,Aswin,above 80%,3,5,yes,80,Good,yes
+33,6/21/2025 10:23,6/21/2025 10:24,23ucs102@kamarajengg.edu.in,LAVANYA.B,N.mahesh,below 50%,4,6,yes,100,Excellent,yes
+34,6/21/2025 10:24,6/21/2025 10:24,23ucs122@kamarajengg.edu.in,RAMALINGAM.G,Ram,60%,4,6,yes,,Good,yes
+35,6/21/2025 10:24,6/21/2025 10:24,23ucs102@kamarajengg.edu.in,LAVANYA.B,R.Kamala,72%,6,4,yes,100,Excellent,no
+36,6/21/2025 10:27,6/21/2025 10:27,23ucs123@kamarajengg.edu.in,DEEPIKA.K,Sam,above 80%,1,3,yes,75,Good,no
+37,6/21/2025 10:27,6/21/2025 10:28,23ucs123@kamarajengg.edu.in,DEEPIKA.K,Rohan,above 80%,2,5,yes,80,Good,no
+38,6/21/2025 10:29,6/21/2025 10:30,23ucs045@kamarajengg.edu.in,VISWANTHKANTHAPANDIYAN.S,viswanth,72%,10,5,yes,10,Good,no
+39,6/21/2025 10:30,6/21/2025 10:30,23ucs045@kamarajengg.edu.in,VISWANTHKANTHAPANDIYAN.S,joel,72%,18,15,yes,19,Excellent,no
+40,6/21/2025 10:30,6/21/2025 10:31,23ucs045@kamarajengg.edu.in,VISWANTHKANTHAPANDIYAN.S,john,60%,10,15,No,20,Good,no
+41,6/21/2025 10:30,6/21/2025 10:31,23ucs167@kamarajengg.edu.in,HARISH MANI.M,HARISH MANI.M,60%,2,5,yes,70,Excellent,
